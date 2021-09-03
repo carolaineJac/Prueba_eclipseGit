@@ -10,7 +10,7 @@ public class Ejemplo {
 		
 		System.out.println(nombre);
 
-		
+		System.out.println(hola hola);
 
 	}
 
